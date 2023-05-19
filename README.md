@@ -1,6 +1,7 @@
-# switcher-ajs4
-Angular 4 typeScript Component to display a switcher, capture the event and emit it
+# Simple switcher
 
+> Angular switcher based on typeScript Component, the goal is to display a switcher, capture the event and emit a propagation 
+> 
 --
 
 { 'L e o L a n e s e',
@@ -23,4 +24,4 @@ Follow me at:http://twitter.com/LeoLaneseltd
 
 Questions / Suggestion / Recommendation ?
 
-angularjs@leolanese.com
+developer@leolanese.com
